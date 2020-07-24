@@ -2,7 +2,7 @@
 
 ## Exercise I
 
-a) Algorithm A has a complexity of O(n).\n
+a) Algorithm A has a complexity of O(n).</br>
    O(1) for the first line (constant)
    O(n^3 + 1) for the second line
    O(n^2 + 1) for the third line
